@@ -1,0 +1,7 @@
+{
+  "name" : "lang-compiler",
+  "version" : "0.0.1",
+  "dependencies" : [
+    "catch2"
+  ]
+}
